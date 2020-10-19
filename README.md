@@ -1,7 +1,6 @@
 # instagramLayoutCssGrid
 
-![mobile](https://github.com/wibastidas/instagramLayoutCssGrid/blob/main/img/capture1.png)
+![mobile](https://github.com/wibastidas/instagramLayoutCssGrid/blob/main/img/capture.png)
 
-![web](https://github.com/wibastidas/instagramLayoutCssGrid/blob/main/img/capture.png)
 
 
